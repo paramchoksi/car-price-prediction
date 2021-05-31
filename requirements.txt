@@ -1,0 +1,51 @@
+absl-py==0.12.0
+astroid==2.4.2
+astunparse==1.6.3
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///C:/ci/cffi_1613247431367/work
+chardet @ file:///C:/ci/chardet_1605296577955/work
+click @ file:///home/linux1/recipes/ci/click_1610990599742/work
+colorama==0.4.4
+cryptography @ file:///C:/ci/cryptography_1616769504165/work
+Flask==2.0.1
+flatbuffers==1.12
+gast==0.4.0
+google-auth-oauthlib==0.4.4
+google-pasta==0.2.0
+grpcio==1.34.1
+h5py==3.1.0
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+isort==5.6.4
+itsdangerous==2.0.1
+Jinja2==3.0.1
+joblib==1.0.1
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing==1.1.2
+lazy-object-proxy==1.4.3
+Markdown==3.3.4
+MarkupSafe==2.0.1
+mccabe==0.6.1
+numpy==1.20.3
+opt-einsum==3.3.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pylint==2.6.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+scikit-learn==0.24.2
+scipy==1.6.3
+six @ file:///C:/ci/six_1605205404068/work
+sklearn==0.0
+tensorboard==2.4.1
+tensorflow==2.5.0rc0
+termcolor==1.1.0
+tf-estimator-nightly==2.5.0.dev2021032501
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+toml==0.10.2
+typing-extensions==3.7.4.3
+urllib3==1.25.9
+Werkzeug==2.0.1
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wincertstore==0.2
+wrapt==1.12.1
